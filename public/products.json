@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-19T14:20:28.228Z",
+  "generated_at": "2026-07-19T14:25:37.499Z",
   "base_url": "https://app.zappy5.app",
   "currency": "ILS",
   "count": 1,
   "products": [
     {
       "id": "bfebb51d-d73c-43f5-ae39-979f37557f93",
-      "slug": "skvvyshy-m66d7q",
+      "slug": "skvvyshy-ho8gvx",
       "name": "סקווישי",
       "name_translations": {},
       "description": "<p>הוא מצויין</p>",
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://app.zappy5.app/product/skvvyshy-m66d7q",
+      "url": "https://app.zappy5.app/product/skvvyshy-ho8gvx",
       "categories": [],
-      "updated_at": "2026-07-19T14:13:59.829Z"
+      "updated_at": "2026-07-19T14:25:09.938Z"
     }
   ]
 }
