@@ -1,0 +1,108 @@
+# app — Generative Engine Optimization Map
+
+> תיצור לי אתר
+
+---
+
+## Pages
+
+### בית
+https://app-744bcc65.zappy5.app
+גלה איך whatsapp business web מקפיץ את העסק שלך קדימה. כלים פשוטים, תוצאות מיידיות. התחל עכשיו ותראה לקוחות מגיבים בזמן אמת — בלי סיבוכים.
+
+### יכולות
+https://app-744bcc65.zappy5.app/capabilities
+הורד whatsapp desktop download וקבל שליטה מלאה על התקשורת העסקית. אוטומציה חכמה, ניהול קל ותוצאות שמדברות בעד עצמן — בוא לראות איך זה עובד.
+
+### אודות
+https://app-744bcc65.zappy5.app/about
+אנחנו מביאים לך את whatsapp business download עם חזון ברור: להפוך כל אינטראקציה להזדמנות. הכירו את הצוות שמאמין בפשטות, חדשנות ופתרונות שמותאמים בדיוק לך.
+
+### הוכחה
+https://app-744bcc65.zappy5.app/proof
+לקוחות כבר משתמשים ב-whatsapp business web ומדווחים על גידול של עשרות אחוזים. צפה במקרי הצלחה אמיתיים, מספרים שלא משקרים — הגיע הזמן שלך להצטרף.
+
+### צור קשר
+https://app-744bcc65.zappy5.app/contact
+מוכן לקחת את whatsapp business download לשלב הבא? השאר פרטים, ונחזור אליך עם פתרון מותאם אישית שיגרום לעסק שלך לרוץ קדימה — אל תפספס את ההזדמנות.
+
+### Products
+https://app-744bcc65.zappy5.app/products
+המוצרים שלנו - app
+
+### Cart
+https://app-744bcc65.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://app-744bcc65.zappy5.app/checkout
+תשלום
+
+### Login
+https://app-744bcc65.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://app-744bcc65.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://app-744bcc65.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://app-744bcc65.zappy5.app/product/:slug
+פרטי המוצר - app
+
+### Category
+https://app-744bcc65.zappy5.app/category/:slug
+מוצרים - app
+
+### תודה רבה | פנייתך התקבלה
+https://app-744bcc65.zappy5.app/thank-you
+תודה שפנית אלינו. קיבלנו את הודעתך בנושא whatsapp business web ונחזור אליך בהקדם האפשרי עם כל המידע הנדרש.
+
+## Legal & Policy
+
+### Privacy Policy
+https://app-744bcc65.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://app-744bcc65.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://app-744bcc65.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About app
+תיצור לי אתר
+
+## Target Audience
+- יזמים טכנולוגיים
+- מפתחי אפליקציות
+- משקיעים בסטארטאפ
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://app-744bcc65.zappy5.app/sitemap.xml
+- Robots: https://app-744bcc65.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://app-744bcc65.zappy5.app/llms-full.txt
+- Products (JSON): https://app-744bcc65.zappy5.app/products.json
+- Products (Google Merchant RSS): https://app-744bcc65.zappy5.app/product-feed.xml
