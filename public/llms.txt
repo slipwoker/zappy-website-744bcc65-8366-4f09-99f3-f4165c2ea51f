@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://example.com
+https://app.zappy5.app
 גלה איך whatsapp business web מקפיץ את העסק שלך קדימה. כלים פשוטים, תוצאות מיידיות. התחל עכשיו ותראה לקוחות מגיבים בזמן אמת — בלי סיבוכים.
 
 ### יכולות
-https://example.com/capabilities
+https://app.zappy5.app/capabilities
 הורד whatsapp desktop download וקבל שליטה מלאה על התקשורת העסקית. אוטומציה חכמה, ניהול קל ותוצאות שמדברות בעד עצמן — בוא לראות איך זה עובד.
 
 ### אודות
-https://example.com/about
+https://app.zappy5.app/about
 אנחנו מביאים לך את whatsapp business download עם חזון ברור: להפוך כל אינטראקציה להזדמנות. הכירו את הצוות שמאמין בפשטות, חדשנות ופתרונות שמותאמים בדיוק לך.
 
 ### הוכחה
-https://example.com/proof
+https://app.zappy5.app/proof
 לקוחות כבר משתמשים ב-whatsapp business web ומדווחים על גידול של עשרות אחוזים. צפה במקרי הצלחה אמיתיים, מספרים שלא משקרים — הגיע הזמן שלך להצטרף.
 
 ### צור קשר
-https://example.com/contact
+https://app.zappy5.app/contact
 מוכן לקחת את whatsapp business download לשלב הבא? השאר פרטים, ונחזור אליך עם פתרון מותאם אישית שיגרום לעסק שלך לרוץ קדימה — אל תפספס את ההזדמנות.
 
 ### Products
-https://example.com/products
+https://app.zappy5.app/products
 המוצרים שלנו - app
 
 ### Cart
-https://example.com/cart
+https://app.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://app.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://app.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://app.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://app.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://app.zappy5.app/product/:slug
 פרטי המוצר - app
 
 ### Category
-https://example.com/category/:slug
+https://app.zappy5.app/category/:slug
 מוצרים - app
 
 ### תודה רבה | פנייתך התקבלה
-https://example.com/thank-you
+https://app.zappy5.app/thank-you
 תודה שפנית אלינו. קיבלנו את הודעתך בנושא whatsapp business web ונחזור אליך בהקדם האפשרי עם כל המידע הנדרש.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://app.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://app.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://app.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -83,11 +83,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### סקווישי
-https://example.com/product/skvvyshy-m66d7q
+https://app.zappy5.app/product/skvvyshy-m66d7q
 - Price: 1.00 ILS (sale, was 3.00 ILS)
 - Availability: In stock
 - Description: נעים לשחק איתו
-- Image: https://example.com/assets/image-product-image-1784470398755-ip3kn8.webp
+- Image: https://app.zappy5.app/assets/image-product-image-1784470398755-ip3kn8.webp
 
 ---
 
@@ -108,8 +108,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://app.zappy5.app/sitemap.xml
+- Robots: https://app.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://app.zappy5.app/llms-full.txt
+- Products (JSON): https://app.zappy5.app/products.json
+- Products (Google Merchant RSS): https://app.zappy5.app/product-feed.xml

@@ -2,15 +2,15 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>app</title>
-    <link>https://example.com</link>
+    <link>https://app.zappy5.app</link>
     <description>Product feed for app</description>
-    <lastBuildDate>Sun, 19 Jul 2026 14:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 14:16:43 GMT</lastBuildDate>
     <item>
       <g:id>bfebb51d-d73c-43f5-ae39-979f37557f93</g:id>
       <g:title>סקווישי</g:title>
       <g:description>נעים לשחק איתו</g:description>
-      <g:link>https://example.com/product/skvvyshy-m66d7q</g:link>
-      <g:image_link>https://example.com/assets/image-product-image-1784470398755-ip3kn8.webp</g:image_link>
+      <g:link>https://app.zappy5.app/product/skvvyshy-m66d7q</g:link>
+      <g:image_link>https://app.zappy5.app/assets/image-product-image-1784470398755-ip3kn8.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>3.00 ILS</g:price>
       <g:sale_price>1.00 ILS</g:sale_price>
