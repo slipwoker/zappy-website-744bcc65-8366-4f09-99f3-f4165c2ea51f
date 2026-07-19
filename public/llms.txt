@@ -80,7 +80,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### סקווישי
+https://example.com/product/skvvyshy-m66d7q
+- Price: 1.00 ILS (sale, was 3.00 ILS)
+- Availability: In stock
+- Description: נעים לשחק איתו
+- Image: https://example.com/assets/image-product-image-1784470398755-ip3kn8.webp
 
 ---
 

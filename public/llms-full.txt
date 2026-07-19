@@ -6229,3 +6229,14 @@ Description: תודה שפנית אלינו. קיבלנו את הודעתך בנ
 
 ---
 
+## Product Catalog
+
+### סקווישי
+URL: https://example.com/product/skvvyshy-m66d7q
+Price: 1.00 ILS (sale, was 3.00 ILS)
+Availability: In stock
+
+הוא מצויין
+
+---
+
